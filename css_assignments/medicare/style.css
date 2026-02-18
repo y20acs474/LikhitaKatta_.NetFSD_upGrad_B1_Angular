@@ -1,0 +1,63 @@
+
+body {
+    font-family: Arial;
+    background-color: #f0f8ff;
+    margin: 0;
+}
+
+
+h1, h2, h3 {
+    color: #004080;
+}
+
+
+header {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #004080;
+}
+
+
+.banner {
+    padding: 30px;
+    text-align: center;
+}
+
+
+.service-card {
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid #004080;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+
+.services p {
+    color: gray;
+}
+
+
+#contact {
+    padding: 20px;
+}
+
+
+input[type="text"] {
+    padding: 8px;
+    width: 200px;
+}
+
+
+button:hover {
+    background-color: #004080;
+    color: white;
+}
