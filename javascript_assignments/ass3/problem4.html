@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+Title <input id="title">
+Amount <input id="amount">
+Date <input id="date">
+<button onclick="add()">Add</button>
+
+<ul id="list"></ul>
+
+<script>
+let db;
+
+let request = indexedDB.open("expenseDB", 1);
+
+request.onupgradeneeded = function (e) {
+    db = e.target.result;
+    db.createObjectStore("expenses", { keyPath: "id", autoIncrement: true });
+}
+
+request.onsuccess = function (e) {
+    db = e.target.result;
+    view();
+}
+
+function add() {
+    let tx = db.transaction("expenses", "readwrite");
+    let store = tx.objectStore("expenses");
+
+    store.add({
+        title: title.value,
+        amount: amount.value,
+        date: date.value
+    });
+
+    tx.oncomplete = view;
+}
+
+function view() {
+    list.innerHTML = "";
+    let tx = db.transaction("expenses", "readonly");
+    let store = tx.objectStore("expenses");
+
+    store.openCursor().onsuccess = function (e) {
+        let cur = e.target.result;
+        if (cur) {
+            let li = document.createElement("li");
+            li.innerText = cur.value.title + " - " + cur.value.amount;
+            list.appendChild(li);
+            cur.continue();
+        }
+    }
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button onclick="getLocation()">Get Location</button>
+<p id="out"></p>
+<ul id="history"></ul>
+
+<script>
+function getLocation() {
+    navigator.geolocation.getCurrentPosition(success, error);
+}
+
+function success(pos) {
+    let lat = pos.coords.latitude;
+    let lon = pos.coords.longitude;
+
+    out.innerText = lat + " , " + lon;
+
+    let list = JSON.parse(localStorage.getItem("loc")) || [];
+    list.unshift({ lat, lon });
+
+    list = list.slice(0, 5);
+
+    localStorage.setItem("loc", JSON.stringify(list));
+    showHistory();
+}
+
+function error(e) {
+    out.innerText = "Error getting location";
+}
+
+function showHistory() {
+    let list = JSON.parse(localStorage.getItem("loc")) || [];
+    history.innerHTML = "";
+
+    list.forEach(l => {
+        let li = document.createElement("li");
+        li.innerText = l.lat + " , " + l.lon;
+        history.appendChild(li);
+    });
+}
+
+window.onload = showHistory;
+</script>
+
+</body>
+</html>
