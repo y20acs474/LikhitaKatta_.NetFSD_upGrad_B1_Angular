@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 3 - Event Handling</title>
+
+   
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        img { width: 150px; margin: 10px 0; }
+    </style>
+</head>
+
+<body>
+
+<h2>Lab 3 — Event Handling</h2>
+
+
+<button id="alertBtn">Click Me</button>
+
+<br><br>
+
+
+<img id="myImage" src="beautiful.jpg">
+
+<br>
+
+
+<p id="para">Double-click me to hide</p>
+
+
+<input type="text" id="nameInput" placeholder="Type something then click outside">
+
+<br><br>
+
+
+<form id="myForm">
+    <input type="text" placeholder="Enter something" required>
+    <button type="submit">Submit</button>
+</form>
+
+
+<script>
+
+$(document).ready(function () {
+
+    
+    $("#alertBtn").click(function () {
+        alert("Button clicked!");
+    });
+
+    
+    $("#myImage").hover(
+        function () {
+            $(this).attr("src", "https://via.placeholder.com/150/ff0000");
+        },
+        function () {
+            $(this).attr("src", "https://via.placeholder.com/150");
+        }
+    );
+
+    
+    $("#para").dblclick(function () {
+        $(this).hide();
+    });
+
+    
+    $("#nameInput").blur(function () {
+        alert("Input lost focus!");
+    });
+
+    
+    $("#myForm").submit(function (event) {
+        event.preventDefault();
+        alert("Form submission prevented!");
+    });
+
+});
+
+</script>
+
+</body>
+</html>
