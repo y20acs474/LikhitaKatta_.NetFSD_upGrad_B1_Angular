@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Hospital Appointment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+        function toggleTime() {
+            const emergency = document.getElementById("emergency");
+            const timeField = document.getElementById("apptTime");
+
+            if (emergency.checked) {
+                timeField.disabled = true;
+            } else {
+                timeField.disabled = false;
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+<header>
+    <h1>CityCare Hospital - Appointment Booking</h1>
+    <hr>
+</header>
+
+<main>
+<section>
+    <h2>Book Your Appointment</h2>
+
+    <form>
+
+       
+        <label>Full Name:</label>
+        <input type="text" required>
+        <br><br>
+
+       
+        <label>Age:</label>
+        <input type="number" min="0" max="120" required>
+        <br><br>
+
+       
+        <label>Select Department:</label>
+        <input list="departments" required>
+        <datalist id="departments">
+            <option value="Cardiology">
+            <option value="Neurology">
+            <option value="Orthopedics">
+            <option value="Pediatrics">
+            <option value="Dermatology">
+        </datalist>
+        <br><br>
+
+        
+        <label>Preferred Doctor:</label>
+        <input type="text" placeholder="Enter doctor name" required>
+        <br><br>
+
+        
+        <label>Appointment Date:</label>
+        <input type="date" min="" required id="apptDate">
+        <br><br>
+
+       
+        <label>Appointment Time:</label>
+        <input type="time" id="apptTime" required>
+        <br><br>
+
+        
+        <label>
+            <input type="checkbox" id="emergency" onclick="toggleTime()">
+            Emergency Case
+        </label>
+        <br><br>
+
+        
+        <label>Phone Number:</label>
+        <input type="tel" pattern="[0-9]{10}" 
+               title="Phone number must be exactly 10 digits" required>
+        <br><br>
+
+        
+        <label>Email:</label>
+        <input type="email" required>
+        <br><br>
+
+       
+        <label>Upload Medical Reports:</label>
+        <input type="file" multiple>
+        <br><br>
+
+        <input type="submit" value="Book Appointment">
+
+    </form>
+</section>
+</main>
+
+<footer>
+    <hr>
+    <p>Contact: support@citycarehospital.com</p>
+    <p>Phone: +91 9876543210</p>
+</footer>
+
+<script>
+   
+    const today = new Date().toISOString().split("T")[0];
+    document.getElementById("apptDate").setAttribute("min", today);
+</script>
+
+</body>
+</html>

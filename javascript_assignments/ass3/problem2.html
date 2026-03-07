@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Registration</h2>
+
+Name: <input id="name" onchange="validate()"><br>
+Email: <input id="email" onchange="validate()"><br>
+Age: <input id="age" onchange="validate()"><br><br>
+
+<button onclick="save()">Submit</button>
+
+<p id="msg"></p>
+
+<script>
+function validate() {
+    let name = nameInput.value;
+    let email = emailInput.value;
+    let age = ageInput.value;
+
+    if (name === "") msg.innerText = "Name required";
+    else if (!email.includes("@")) msg.innerText = "Invalid email";
+    else if (age <= 18) msg.innerText = "Age must be >18";
+    else msg.innerText = "Valid";
+}
+
+function save() {
+    sessionStorage.setItem("name", name.value);
+    sessionStorage.setItem("email", email.value);
+    sessionStorage.setItem("age", age.value);
+}
+</script>
+
+</body>
+</html>

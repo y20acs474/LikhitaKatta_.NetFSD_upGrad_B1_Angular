@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>E-Learning Course Registration</title>
+</head>
+
+<body>
+
+<header>
+    <h1>SkillUp Academy - Certification Program</h1>
+    <hr>
+</header>
+
+<main>
+
+<section>
+    <h2>Register for Course</h2>
+
+    <form>
+
+        
+        <label>Choose Course:</label>
+        <input list="courses" name="course" required>
+
+        <datalist id="courses">
+            <option value="Full Stack Development">
+            <option value="Data Science">
+            <option value="Cloud Computing">
+            <option value="Cyber Security">
+        </datalist>
+        <br><br>
+
+       
+        <label>Select Batch Month:</label>
+        <input type="month" required>
+        <br><br>
+
+        
+        <label>Preferred Session Time:</label>
+        <input type="time" required>
+        <br><br>
+
+        
+        <label>Rate Your Skill Level (0-10):</label>
+        <input type="range" min="0" max="10" value="5">
+        <br><br>
+
+        
+        <label>Enrollment Progress:</label>
+        <progress value="50" max="100"></progress>
+        <br><br>
+
+        <input type="submit" value="Enroll Now">
+
+    </form>
+</section>
+
+<section>
+    <h2>Course Introduction Video</h2>
+
+    <video width="400" controls>
+        <source src="promo.mp4" type="video/mp4">
+        <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English">
+        Your browser does not support the video tag.
+    </video>
+</section>
+
+</main>
+
+<footer>
+    <hr>
+    <p>Contact: support@skillupacademy.com</p>
+    <p>&copy; 2026 SkillUp Academy</p>
+</footer>
+
+</body>
+</html>

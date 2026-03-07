@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 5 - AJAX Users</title>
+
+    
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        table { border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid black; padding: 8px; }
+        #loader { color: red; display: none; }
+    </style>
+</head>
+
+<body>
+
+<h2>Lab 5 — AJAX User List</h2>
+
+<button id="loadUsers">Load Users</button>
+
+<br><br>
+
+<input type="text" id="search" placeholder="Search by name">
+
+<p id="loader">Loading data...</p>
+
+<table id="userTable">
+<tr>
+    <th>Name</th>
+    <th>Email</th>
+    <th>City</th>
+</tr>
+</table>
+
+<script>
+
+$(document).ready(function () {
+
+    let allUsers = [];
+
+    
+    $("#loadUsers").click(function () {
+
+        $("#loader").show();
+
+        $.ajax({
+            url: "https://jsonplaceholder.typicode.com/users",
+            method: "GET",
+
+            success: function (data) {
+
+                $("#loader").hide();
+
+                allUsers = data;
+
+                displayUsers(data);
+            },
+
+            error: function () {
+                $("#loader").hide();
+                alert("Error loading data!");
+            }
+
+        });
+
+    });
+
+    
+    function displayUsers(users) {
+
+        $("#userTable tr:not(:first)").remove();
+
+        users.forEach(function (user) {
+
+            $("#userTable").append(
+                `<tr>
+                    <td>${user.name}</td>
+                    <td>${user.email}</td>
+                    <td>${user.address.city}</td>
+                </tr>`
+            );
+
+        });
+    }
+
+    
+    $("#search").on("keyup", function () {
+
+        let value = $(this).val().toLowerCase();
+
+        let filtered = allUsers.filter(user =>
+            user.name.toLowerCase().includes(value)
+        );
+
+        displayUsers(filtered);
+    });
+
+});
+
+</script>
+
+</body>
+</html>
