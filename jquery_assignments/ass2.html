@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 2 - DOM Manipulation</title>
+
+    
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        li { margin: 5px 0; }
+        button { margin: 5px; }
+    </style>
+</head>
+
+<body>
+
+<h2>Lab 2 — DOM Manipulation</h2>
+
+
+<input type="text" id="taskInput" placeholder="Enter task">
+
+<br><br>
+
+
+<button id="btnText">Change Text</button>
+<button id="btnHtml">Change HTML</button>
+<button id="btnVal">Set Input Value</button>
+<button id="btnAdd">Add Task</button>
+<button id="btnClear">Clear All</button>
+
+<br><br>
+
+
+<p id="msg"></p>
+
+
+<ul id="taskList"></ul>
+
+
+<script>
+
+$(document).ready(function () {
+
+    
+    $("#btnText").click(function () {
+        $("#msg").text("Text changed using .text()");
+    });
+
+    
+    $("#btnHtml").click(function () {
+        $("#msg").html("<b>Bold text using .html()</b>");
+    });
+
+    
+    $("#btnVal").click(function () {
+        $("#taskInput").val("Sample Task");
+    });
+
+    
+    $("#btnAdd").click(function () {
+
+        let task = $("#taskInput").val();
+
+        if (task !== "") {
+            $("#taskList").append(
+                "<li>" + task + 
+                " <button class='delete'>Delete</button></li>"
+            );
+
+            $("#taskInput").val(""); 
+        }
+
+    });
+
+    
+    $("#taskList").on("click", ".delete", function () {
+        $(this).parent().remove();
+    });
+
+    
+    $("#btnClear").click(function () {
+        $("#taskList li").remove();
+    });
+
+});
+
+</script>
+
+</body>
+</html>

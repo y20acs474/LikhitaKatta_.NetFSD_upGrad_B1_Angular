@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+}
+
+
+.dashboard {
+    display: flex;
+}
+
+
+.sidebar {
+    width: 200px;
+}
+
+
+.card {
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+tr:hover {
+    background-color: lightgray;
+}
+
+
+.credit {
+    color: green;
+}
+
+.debit {
+    color: red;
+}
+
+
+input[type="password"] {
+    border: 2px solid blue;
+}
+
+
+button:active {
+    background-color: gray;
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Travel Booking</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<header>
+    <h1>SkyWay Travels — Flight Booking</h1>
+</header>
+
+<main>
+
+<section>
+<h2>Promotional Video</h2>
+
+<video width="600" controls poster="travel.jpg">
+    <source src="promo.mp4">
+    <source src="promo.mp4">
+</video>
+
+</section>
+
+<section>
+<h2>Travel Theme Music</h2>
+
+<audio controls autoplay loop>
+    <source src="intro.mp3">
+    <source src="intro.mp3">
+</audio>
+</section>
+
+<section>
+<h2>Book Your Trip</h2>
+
+<form>
+
+<label>Source City:</label><br>
+<input list="cities" name="source" required>
+<br><br>
+
+<label>Destination City:</label><br>
+<input list="cities" name="destination" required>
+
+<datalist id="cities">
+<option value="Hyderabad">
+<option value="Delhi">
+<option value="Mumbai">
+<option value="Bangalore">
+<option value="Chennai">
+</datalist>
+<br><br>
+
+<label>Departure Date:</label><br>
+<input type="date" id="dep" required>
+<br><br>
+
+<label>Return Date:</label><br>
+<input type="date" id="ret" required>
+<br><br>
+
+<label>Travel Class:</label><br>
+<select required>
+<option value="">Select</option>
+<option>Economy</option>
+<option>Business</option>
+<option>First Class</option>
+</select>
+<br><br>
+
+<label>Preferred Airline:</label><br>
+<input list="airlines" required>
+
+<datalist id="airlines">
+<option value="IndiGo">
+<option value="Air India">
+<option value="Vistara">
+<option value="SpiceJet">
+</datalist>
+<br><br>
+
+<label>Number of Passengers:</label><br>
+<input type="number" min="1" max="10" required>
+<br><br>
+
+<label>Meal Preference Color Tag:</label><br>
+<input type="color">
+<br><br>
+
+<label>Special Assistance Notes:</label><br>
+<textarea placeholder="Wheelchair, medical support, etc."></textarea>
+<br><br>
+
+<input type="submit" value="Book Now">
+
+</form>
+</section>
+
+</main>
+
+<footer>
+<p>&copy; 2026 SkyWay Travels</p>
+</footer>
+
+</body>
+</html>

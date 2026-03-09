@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Lab</title>
+
+    
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        table { border-collapse: collapse; }
+        td { padding: 8px; border: 1px solid black; }
+        .box { padding: 10px; margin: 5px; }
+    </style>
+</head>
+<body>
+    
+
+<h2 id="title">jQuery Practice</h2>
+
+<p>Paragraph 1</p>
+<p>Paragraph 2</p>
+
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+<table>
+<tr><td>Row 1</td></tr>
+<tr><td>Row 2</td></tr>
+<tr><td>Row 3</td></tr>
+<tr><td>Row 4</td></tr>
+</table>
+
+<script>
+$(document).ready(function () {
+
+    
+    
+$("p").css("color", "blue");
+
+
+$("#title").css("background", "yellow");
+
+
+$(".box").css("border", "3px solid red");
+
+
+$("li:first").css("color", "green");
+$("li:last").css("color", "orange");
+
+
+$("tr:even").hide();
+
+});
+</script>
+
+</body>
+</html>
