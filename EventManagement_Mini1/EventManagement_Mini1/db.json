@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Python Workshop",
+      "description": "Learn Python basics",
+      "date": "2026-03-20",
+      "location": "Hyderabad",
+      "capacity": 50,
+      "availableSeats": 49
+    },
+    {
+      "id": "2",
+      "title": "Web Development",
+      "description": "HTML, CSS, JavaScript training",
+      "date": "2026-03-25",
+      "location": "Bangalore",
+      "capacity": 40,
+      "availableSeats": 40
+    },
+    {
+      "id": "cc36",
+      "title": "c",
+      "description": "learn c",
+      "date": "2023-03-12",
+      "location": "chennai",
+      "capacity": 100,
+      "availableSeats": 100
+    }
+  ],
+  "registrations": [
+    {
+      "id": "6156",
+      "eventId": "1",
+      "participantName": "likhi",
+      "email": "likhi@gmail.com",
+      "phone": "9876543210"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
