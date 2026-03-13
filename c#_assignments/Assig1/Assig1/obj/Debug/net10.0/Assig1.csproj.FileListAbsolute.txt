@@ -1,0 +1,14 @@
+F:\DotNet Training\c#\Assig1\Assig1\bin\Debug\net10.0\Assig1.exe
+F:\DotNet Training\c#\Assig1\Assig1\bin\Debug\net10.0\Assig1.deps.json
+F:\DotNet Training\c#\Assig1\Assig1\bin\Debug\net10.0\Assig1.runtimeconfig.json
+F:\DotNet Training\c#\Assig1\Assig1\bin\Debug\net10.0\Assig1.dll
+F:\DotNet Training\c#\Assig1\Assig1\bin\Debug\net10.0\Assig1.pdb
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.AssemblyInfoInputs.cache
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.AssemblyInfo.cs
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.csproj.CoreCompileInputs.cache
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.dll
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\refint\Assig1.dll
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.pdb
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\Assig1.genruntimeconfig.cache
+F:\DotNet Training\c#\Assig1\Assig1\obj\Debug\net10.0\ref\Assig1.dll

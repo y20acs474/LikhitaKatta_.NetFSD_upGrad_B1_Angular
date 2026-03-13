@@ -1,0 +1,14 @@
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.AssemblyInfoInputs.cache
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.AssemblyInfo.cs
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.csproj.CoreCompileInputs.cache
+F:\DotNet Training\c#\Class_assign1\bin\Debug\net10.0\Class_assign1.exe
+F:\DotNet Training\c#\Class_assign1\bin\Debug\net10.0\Class_assign1.deps.json
+F:\DotNet Training\c#\Class_assign1\bin\Debug\net10.0\Class_assign1.runtimeconfig.json
+F:\DotNet Training\c#\Class_assign1\bin\Debug\net10.0\Class_assign1.dll
+F:\DotNet Training\c#\Class_assign1\bin\Debug\net10.0\Class_assign1.pdb
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.dll
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\refint\Class_assign1.dll
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.pdb
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\Class_assign1.genruntimeconfig.cache
+F:\DotNet Training\c#\Class_assign1\obj\Debug\net10.0\ref\Class_assign1.dll
