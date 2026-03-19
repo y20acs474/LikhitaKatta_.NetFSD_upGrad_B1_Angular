@@ -1,0 +1,14 @@
+F:\DotNet Training\c#\Inheritance_assign\bin\Debug\net10.0\Inheritance_assign.exe
+F:\DotNet Training\c#\Inheritance_assign\bin\Debug\net10.0\Inheritance_assign.deps.json
+F:\DotNet Training\c#\Inheritance_assign\bin\Debug\net10.0\Inheritance_assign.runtimeconfig.json
+F:\DotNet Training\c#\Inheritance_assign\bin\Debug\net10.0\Inheritance_assign.dll
+F:\DotNet Training\c#\Inheritance_assign\bin\Debug\net10.0\Inheritance_assign.pdb
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.AssemblyInfoInputs.cache
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.AssemblyInfo.cs
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.csproj.CoreCompileInputs.cache
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.dll
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\refint\Inheritance_assign.dll
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.pdb
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\Inheritance_assign.genruntimeconfig.cache
+F:\DotNet Training\c#\Inheritance_assign\obj\Debug\net10.0\ref\Inheritance_assign.dll
