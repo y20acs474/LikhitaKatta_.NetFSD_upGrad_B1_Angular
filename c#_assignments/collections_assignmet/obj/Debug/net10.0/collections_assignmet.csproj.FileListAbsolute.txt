@@ -1,0 +1,14 @@
+F:\DotNet Training\c#\collections_assignmet\bin\Debug\net10.0\collections_assignmet.exe
+F:\DotNet Training\c#\collections_assignmet\bin\Debug\net10.0\collections_assignmet.deps.json
+F:\DotNet Training\c#\collections_assignmet\bin\Debug\net10.0\collections_assignmet.runtimeconfig.json
+F:\DotNet Training\c#\collections_assignmet\bin\Debug\net10.0\collections_assignmet.dll
+F:\DotNet Training\c#\collections_assignmet\bin\Debug\net10.0\collections_assignmet.pdb
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.AssemblyInfoInputs.cache
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.AssemblyInfo.cs
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.csproj.CoreCompileInputs.cache
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.dll
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\refint\collections_assignmet.dll
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.pdb
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\collections_assignmet.genruntimeconfig.cache
+F:\DotNet Training\c#\collections_assignmet\obj\Debug\net10.0\ref\collections_assignmet.dll

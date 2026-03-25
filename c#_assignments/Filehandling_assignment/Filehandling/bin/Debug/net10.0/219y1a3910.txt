@@ -1,0 +1,6 @@
+Name: Vishnu
+Roll: 219y1a3910
+Marks: 10, 20, 30
+Total: 60
+Average: 20
+Grade: Fail

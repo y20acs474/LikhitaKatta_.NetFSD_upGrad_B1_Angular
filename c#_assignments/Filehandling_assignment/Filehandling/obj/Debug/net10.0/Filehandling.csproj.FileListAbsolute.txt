@@ -1,0 +1,14 @@
+E:\.NET TRAINING\C#\Filehandling\Filehandling\bin\Debug\net10.0\Filehandling.exe
+E:\.NET TRAINING\C#\Filehandling\Filehandling\bin\Debug\net10.0\Filehandling.deps.json
+E:\.NET TRAINING\C#\Filehandling\Filehandling\bin\Debug\net10.0\Filehandling.runtimeconfig.json
+E:\.NET TRAINING\C#\Filehandling\Filehandling\bin\Debug\net10.0\Filehandling.dll
+E:\.NET TRAINING\C#\Filehandling\Filehandling\bin\Debug\net10.0\Filehandling.pdb
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.AssemblyInfoInputs.cache
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.AssemblyInfo.cs
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.csproj.CoreCompileInputs.cache
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.dll
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\refint\Filehandling.dll
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.pdb
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\Filehandling.genruntimeconfig.cache
+E:\.NET TRAINING\C#\Filehandling\Filehandling\obj\Debug\net10.0\ref\Filehandling.dll

@@ -1,0 +1,14 @@
+F:\DotNet Training\c#\multithreading\bin\Debug\net10.0\multithreading.exe
+F:\DotNet Training\c#\multithreading\bin\Debug\net10.0\multithreading.deps.json
+F:\DotNet Training\c#\multithreading\bin\Debug\net10.0\multithreading.runtimeconfig.json
+F:\DotNet Training\c#\multithreading\bin\Debug\net10.0\multithreading.dll
+F:\DotNet Training\c#\multithreading\bin\Debug\net10.0\multithreading.pdb
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.AssemblyInfoInputs.cache
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.AssemblyInfo.cs
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.csproj.CoreCompileInputs.cache
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.dll
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\refint\multithreading.dll
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.pdb
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\multithreading.genruntimeconfig.cache
+F:\DotNet Training\c#\multithreading\obj\Debug\net10.0\ref\multithreading.dll

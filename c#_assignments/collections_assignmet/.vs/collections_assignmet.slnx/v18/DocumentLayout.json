@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNet Training\\c#\\collections_assignmet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1CDBE-89AC-4D68-B10C-ED22042293D1}|collections_assignmet.csproj|f:\\dotnet training\\c#\\collections_assignmet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1CDBE-89AC-4D68-B10C-ED22042293D1}|collections_assignmet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1CDBE-89AC-4D68-B10C-ED22042293D1}|collections_assignmet.csproj|f:\\dotnet training\\c#\\collections_assignmet\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1CDBE-89AC-4D68-B10C-ED22042293D1}|collections_assignmet.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\c#\\collections_assignmet\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "F:\\DotNet Training\\c#\\collections_assignmet\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:05:40.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\c#\\collections_assignmet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotNet Training\\c#\\collections_assignmet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:51:09.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
