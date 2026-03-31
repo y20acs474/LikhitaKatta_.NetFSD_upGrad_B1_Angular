@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|f:\\dotnet training\\upgrad_.net\\mvc_assign\\mvc_assign3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55E2A1-C455-49FA-8697-90630444FD8F}|MVC_Assign3.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Edit.cshtml*",
+              "RelativeToolTip": "Views\\User\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T16:42:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Profile.cshtml",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Profile.cshtml*",
+              "RelativeToolTip": "Views\\User\\Profile.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T16:41:59.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Login.cshtml*",
+              "RelativeToolTip": "Views\\User\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T16:41:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Views\\User\\Register.cshtml*",
+              "RelativeToolTip": "Views\\User\\Register.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T16:40:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:30:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Controllers\\UserController.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:29:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\ViewModels\\UserViewModel.cs*",
+              "RelativeToolTip": "ViewModels\\UserViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:28:44.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\DotNet Training\\upgrad_.net\\MVC_Assign\\MVC_Assign3\\Models\\User.cs*",
+              "RelativeToolTip": "Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:27:56.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

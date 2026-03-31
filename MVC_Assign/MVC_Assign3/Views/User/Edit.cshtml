@@ -1,0 +1,11 @@
+﻿@model MVC_Assign3.Models.User
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <input asp-for="Name" />
+    <input asp-for="Email" readonly />
+    <input asp-for="Password" />
+
+    <button type="submit">Save</button>
+</form>
