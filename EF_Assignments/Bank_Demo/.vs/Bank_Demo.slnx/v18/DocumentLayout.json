@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Migrations\\20260401122602_InitialBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401122602_InitialBank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\bank_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:bank_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|f:\\dotnet training\\entity_framework\\bank_demo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA3B1A9-7F5C-4205-B22B-5EBFBFD90B02}|Bank_Demo.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260401122602_InitialBank.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Migrations\\20260401122602_InitialBank.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401122602_InitialBank.cs",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Migrations\\20260401122602_InitialBank.cs",
+              "RelativeToolTip": "Migrations\\20260401122602_InitialBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:26:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Delete.cshtml",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:19:18.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Details.cshtml",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "Views\\Account\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:18:27.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:17:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:14:16.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Create.cshtml",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T12:16:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:06:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:03:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\DataBase\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\AppDBContext.cs",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\DataBase\\AppDBContext.cs",
+              "RelativeToolTip": "DataBase\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:55:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank_Demo",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Bank_Demo.csproj",
+              "RelativeDocumentMoniker": "Bank_Demo.csproj",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Bank_Demo.csproj",
+              "RelativeToolTip": "Bank_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T11:53:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "F:\\DotNet Training\\Entity_Framework\\Bank_Demo\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:50:06.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
